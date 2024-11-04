@@ -1,3 +1,7 @@
+# This is an example of how to use bff way with nuxt 
+We can use it to cache some api data and use it in the frontend
+or we can customize the data before sending it to the frontend
+Also we can make some logic in the backend to get the data from different sources and send it to the frontend
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
